@@ -3,5 +3,3 @@ This repository contains datasets and Jupyter Notebooks for use in EES 3506 / 55
 Specifically, the files within this repository contain what is needed for Unit 2 which covers:
 * Introduction to Jupyter Lab
 * Python Fundamentals
-* Working with 1-dimensional datasets using Pandas
-* Creating and customizing plots using Matplotlib
